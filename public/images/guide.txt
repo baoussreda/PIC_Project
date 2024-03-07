@@ -1,0 +1,8 @@
+ <ul className="list-disc pl-2">
+        <li>Innovation</li>
+        <li>Quality</li>
+        <li>Collaboration</li>
+        <li>Adaptability</li>
+        <li>Diversity and Inclusion</li>
+        <li>Community Engagement</li>
+      </ul>
